@@ -1,5 +1,5 @@
 # Advanced-Econometrics-Project
-The project waqs developed in R and then converted to RMarkdown.
+The project was developed in R and then converted to RMarkdown.
 
 title: "Advanced_Econometrics_Project_Final_Script"
 
