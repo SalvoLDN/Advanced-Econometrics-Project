@@ -1,27 +1,27 @@
 # Advanced-Econometrics-Project
 This repository contains a project conducted at university for the advanced econometrics course. The project has been conducted using R and then converted to RMarkdown.
 ---
-title: "Advanced_Econometrics_Project_Final_Script"
-author: "Stefano Luca Salvigni"
-date: "6 May 2022"
-output:
-  pdf_document: 
+-title: "Advanced_Econometrics_Project_Final_Script"
+-author: "Stefano Luca Salvigni"
+-date: "6 May 2022"
+-output:
+  -pdf_document: 
     fig_width: 9
     fig_height: 7.5
     fig_caption: yes
     number_sections: yes
-  word_document: 
+  -word_document: 
     toc: yes
     fig_width: 8
     fig_height: 7
-editor_options:
+-editor_options:
   markdown:
     wrap: 72
 ---
 
-Goldsmiths College, University of London.
+-Goldsmiths College, University of London.
 
-Advanced Econometrics.
+-Advanced Econometrics.
 
 # **TIME SERIES**
 
